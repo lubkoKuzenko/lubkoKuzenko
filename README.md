@@ -2,7 +2,7 @@
 
 ## Skills
 
-<table align="center" style="border: none; width:100%">
+<table align="center" style="border: none">
 <!-- Operational systems -->
 <tr>
    <td align="center" width="96">
