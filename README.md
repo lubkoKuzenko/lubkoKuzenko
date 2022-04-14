@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="Visual Studio Code" />
-      <br>Visual Studio Code
+      <br>VS Code
     </td>
   </tr>
   <tr>
