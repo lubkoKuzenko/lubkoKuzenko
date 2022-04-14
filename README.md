@@ -49,10 +49,6 @@
         <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
       <br />Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://www.drupal.org/files/project-images/im01.png" width="50" height="50" alt="Zurb Foundation" />
-      <br />Zurb Foundation
-    </td>
   </tr>
 
 
