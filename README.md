@@ -3,6 +3,7 @@
 ## Skills
 
 <table align="center" style="border: none">
+<!-- Operational systems -->
 <tr>
    <td align="center" width="96">
         <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/apple-ios-system-platform-os-mac-linux-512.png" width="50" height="50" alt="Mac OS" />
@@ -13,16 +14,18 @@
       <br>Windows
     </td>
   </tr>
+<!-- Code Editors -->
 <tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="Visual Studio Code" />
+      <br>VS Code
+    </td>       
    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/1200px-Breezeicons-apps-48-sublime-text.svg.png" width="50" height="50" alt="Sublime Text" />
       <br>Sublime Text
     </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="Visual Studio Code" />
-      <br>VS Code
-    </td>
   </tr>
+<!-- HTML/CSS -->
   <tr>
    <td align="center" width="96">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML" />
@@ -50,52 +53,42 @@
       <br />Bootstrap
     </td>
   </tr>
-
-
-  <tr>
-  <td align="center" width="96">
-      <a href="https://github.com/topics/git">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/typescript">
-        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/angular">
+<!-- Angular -->
+<tr>
+    <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
-      </a>
       <br>Angular
     </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/firebase">
-        <img src="https://coollogo.net/wp-content/uploads/2021/02/Firebase-logo.svg" width="50" height="50" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
     <td align="center" width="96">
-      <a href="https://github.com/topics/material-design">
         <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
-      </a>
       <br>Material
     </td>
+</tr>
+<!-- React -->
+<tr>
     <td align="center" width="96">
-      <a href="https://github.com/topics/jest">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="50" height="50" alt="React" />
+      <br>React
+    </td>
+</tr>
+<!-- 3'rd party Libraries -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/lodash.svg" width="50" height="50" alt="Lodash" />
+      <br>Lodash
+    </td>
+</tr>
+<!-- Tools -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
         <img src="https://nx.dev/documentation/shared/jest-logo.png" width="50" height="50" alt="" />
-      </a>
       <br>Jest
     </td>
-    <td align="center" width="96">
-      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
-      </a>
-      <br>
-    </td>
-  </tr>
+</tr>
 </table>
 
 <!--
