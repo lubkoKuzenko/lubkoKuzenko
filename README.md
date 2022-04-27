@@ -176,6 +176,10 @@
         <img src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png" width="50" height="50" alt="" />
       <br>Scrum
     </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="50" height="50" alt="" />
+      <br>Prettier
+    </td>
 </tr>
 </table>
 
