@@ -52,6 +52,14 @@
         <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
       <br />Bootstrap
     </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/bulma.svg" width="50" height="50" />
+      <br />bulma
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50" />
+      <br />tailwind
+    </td>
   </tr>
 <!-- Angular -->
 <tr>
