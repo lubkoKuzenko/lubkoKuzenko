@@ -68,8 +68,8 @@
       <br>NGRX
     </td>
     <td align="center" width="96">
-        <img src="https://ngrx.io/assets/images/badge.svg" width="50" height="50" alt="Material" />
-      <br>NGRX
+        <img src="https://malcoded.com/static/8c48d4c4bb8b1f2793fa9c6536dae7c6/f3583/angular-reactive-forms-tutorial.png" width="50" height="50" />
+      <br>Reactive Forms
     </td>
 </tr>
 <!-- React -->
