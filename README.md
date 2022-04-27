@@ -76,8 +76,24 @@
       <br>NGRX
     </td>
     <td align="center" width="96">
-        <img src="https://malcoded.com/static/8c48d4c4bb8b1f2793fa9c6536dae7c6/f3583/angular-reactive-forms-tutorial.png" width="50" height="50" />
-      <br>Reactive Forms
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-forms.svg?v=4" width="50" height="50" />
+      <br>Forms
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-router.svg?v=4" width="50" height="50" />
+      <br>Router
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-i18n.svg?v=4" width="50" height="50" />
+      <br>i18n
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-jest.svg?v=4" width="50" height="50" />
+      <br>angular+jest
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-animations.svg?v=4" width="50" height="50" />
+      <br>Animations
     </td>
 </tr>
 <!-- React -->
@@ -91,8 +107,8 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="50" height="50" alt="Formik Form" />
-      <br>Formik Form
+        <img src="https://img.stackshare.io/service/8846/preview.png" width="50" height="50" alt="Formik Form" />
+      <br>Formik
     </td>
     <td align="center" width="96">
         <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="50" height="50" alt="React Hook Form" />
