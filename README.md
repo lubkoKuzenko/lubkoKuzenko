@@ -99,7 +99,7 @@
 <!-- React -->
 <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="50" height="50" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="50" height="50" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -107,12 +107,24 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://img.stackshare.io/service/8846/preview.png" width="50" height="50" alt="Formik Form" />
+        <img src="https://img.stackshare.io/service/8846/preview.png" width="50" height="50" />
       <br>Formik
     </td>
     <td align="center" width="96">
-        <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="50" height="50" alt="React Hook Form" />
+        <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="50" height="50"  />
       <br>Hook Form
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" width="50" height="50" />
+      <br>i18next
+    </td>
+    <td align="center" width="96">
+        <img src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="50" height="50" />
+      <br>Query
+    </td>
+    <td align="center" width="96">
+        <img src="https://loadable-components.com/static/ed7fcc62c6398ebf18c8aa4fc718a740/1b5b9/home-logo.png" width="50" height="50" />
+      <br>@loadable/component
     </td>
 </tr>
 <!-- 3'rd party Libraries -->
