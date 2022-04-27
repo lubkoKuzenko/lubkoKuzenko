@@ -63,12 +63,32 @@
         <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
       <br>Material
     </td>
+    <td align="center" width="96">
+        <img src="https://ngrx.io/assets/images/badge.svg" width="50" height="50" alt="Material" />
+      <br>NGRX
+    </td>
+    <td align="center" width="96">
+        <img src="https://ngrx.io/assets/images/badge.svg" width="50" height="50" alt="Material" />
+      <br>NGRX
+    </td>
 </tr>
 <!-- React -->
 <tr>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="50" height="50" alt="React" />
       <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" width="50" height="50" alt="React" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="50" height="50" alt="Formik Form" />
+      <br>Formik Form
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="50" height="50" alt="React Hook Form" />
+      <br>Hook Form
     </td>
 </tr>
 <!-- 3'rd party Libraries -->
@@ -77,16 +97,48 @@
         <img src="https://cdn.worldvectorlogo.com/logos/lodash.svg" width="50" height="50" alt="Lodash" />
       <br>Lodash
     </td>
+    <td align="center" width="96">
+        <img src="https://scicoding.com/content/images/2021/09/chartjs-logo-1.svg" width="50" height="50" alt="Lodash" />
+      <br>chart.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://wp-assets.highcharts.com/svg/logo2021.svg" width="50" height="50" alt="Lodash" />
+      <br>highcharts
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/momentjs.svg" width="50" height="50" alt="Lodash" />
+      <br>moment.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://numbrojs.com/img/raccoon_blue.png" width="50" height="50" alt="Lodash" />
+      <br>numbro.js
+    </td>
 </tr>
 <!-- Tools -->
 <tr>
     <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
+        <img src="https://logos-download.com/wp-content/uploads/2021/01/Jira_Logo.png" width="50" height="50" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" width="50" height="50" />
+      <br>npm
+    </td>
+    <td align="center" width="96">
+        <img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="50" height="50" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://nx.dev/documentation/shared/jest-logo.png" width="50" height="50" alt="" />
+        <img src="https://nx.dev/documentation/shared/jest-logo.png" width="50" height="50"  />
       <br>Jest
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png" width="50" height="50" alt="" />
+      <br>Scrum
     </td>
 </tr>
 </table>
